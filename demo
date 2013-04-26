@@ -1,0 +1,4 @@
+#Status id in json format 
+#Change the status_id whatever you want ! 
+{"issue": { "status_id": 3 }}
+
